@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="accessibility_service_description">Jarvis Assistant Automation Service assists you by navigating your device, closing apps, or returning home upon voice command.</string>
+</resources>
